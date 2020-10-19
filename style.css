@@ -1,4 +1,7 @@
 body {
     background-color: #ffffff;
+    max-width: 13cm;
   }
-  
+.float{
+  float: right;
+}
