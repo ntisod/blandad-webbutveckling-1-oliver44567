@@ -9,7 +9,7 @@ img {
   border: 0;
   width: 250px;
 }
-#recept{
+#om{
   color: black;
   background-color: lightblue;
   border: 2px solid lightblue;
@@ -19,10 +19,10 @@ img {
   text-decoration: none;
 }
 
-#recept:hover{
+#om:hover{
   background-color: rgb(102, 201, 234);
 }
 
-#recept:active{
+#om:active{
   border-width: 4px;
 }
